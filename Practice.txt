@@ -2,3 +2,4 @@ This is a repository created to understand git
 New to git and github.
 Lets explore enumerous features provided by git platform.
 Commit to learn how it works
+Adding a branch with name ishpinder
